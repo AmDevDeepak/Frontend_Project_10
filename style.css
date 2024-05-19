@@ -17,7 +17,7 @@
 }
 @font-face {
     font-family: 'Machina';
-    src: url('/Machina.ttf');
+    src: url('Machina.ttf') format('truetype');
 }
 
 body[theme="dark"]{
